@@ -1,2 +1,2 @@
 # Unicamp-MC920
-Projetos desenvolvidos para a matéria de Introdução ao Processamento de Imagem Digital.
+Projects developed for the Introduction to Digital Image Processing course.
